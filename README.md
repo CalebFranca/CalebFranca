@@ -2,8 +2,8 @@
 
 
 
- 👨‍💻atualmente estou procurando um estágio para desenvolvedor web.
+ 👨‍💻Desenvolvedor FullStack;
  
- 📚Estudando React
+ 📚Estudando React;
  
  ✉️ Contate-me no email: arielcalebdefranca@gmail.com
