@@ -1,9 +1,8 @@
-<h1>Olá, sou o Caleb, estudante de análise e desenvolvimento de sistemas e desenvolvimento web com foco em front-end.</h1>
+<h1>Hi, I'm Caleb, FullStack Developer.</h1>
 
-
-
- 👨‍💻Desenvolvedor FullStack;
+ 👨‍💻 Currently working with mobile development;
  
- 📚Estudando React;
+ 📚 Specializing in java;
  
- ✉️ Contate-me no email: arielcalebdefranca@gmail.com
+ 
+ ✉️ Contact me at email: calebfrancapc@gmail.com
